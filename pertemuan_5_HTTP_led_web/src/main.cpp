@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <WiFi.h>
 
-#define ssid "DGDA"
+#define ssid "DVGA"
 #define password "davidgrace"
 
 WiFiServer server(80);
