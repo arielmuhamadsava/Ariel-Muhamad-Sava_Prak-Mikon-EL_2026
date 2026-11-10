@@ -59,7 +59,7 @@ void setup_wifi() {
         Serial.print(".");
     }
     Serial.println("\nWiFi Terhubung!");
-    }
+}
 
 void reconnect() {
     while (!client.connected()) {
